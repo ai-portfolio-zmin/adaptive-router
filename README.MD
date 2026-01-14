@@ -1,4 +1,4 @@
-### Adaptive Retrieval Router — Experimental Notebook
+### Adaptive Retrieval Router — Evaluation Notebook
 
 This notebook documents the analysis of a supervised ML–based retrieval routing strategy for StackOverflow question answering.
 
@@ -149,5 +149,5 @@ This notebook assumes those services are running locally and reachable over HTTP
 It does **not** re-train models; it focuses on evaluating routing quality and latency.
 
 Note:
-A LoRA-fine-tuned LLM router is being developed in a separate repo:
+A LoRA-fine-tuned LLM router is in a separate repo:
 https://github.com/ai-portfolio-zmin/llm-fine-tune
